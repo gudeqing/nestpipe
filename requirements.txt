@@ -1,0 +1,2 @@
+psutil==5.7.2
+pygraphviz==1.7

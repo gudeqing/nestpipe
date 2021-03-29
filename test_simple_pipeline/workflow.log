@@ -1,0 +1,13 @@
+2021-03-29 17:37:57,050: RunStep: A
+2021-03-29 17:37:57,050: RunCmd: echo I am worker A
+2021-03-29 17:37:57,050: RunStep: C
+2021-03-29 17:37:57,050: RunCmd: echo I am worker C
+2021-03-29 17:38:09,069: Local resource is Not enough for B!
+2021-03-29 17:38:21,084: Local resource is Not enough for B!
+2021-03-29 17:38:21,084: B cannot be started for not enough resource!
+2021-03-29 17:38:21,084: D cannot be started for some failed dependencies!
+2021-03-29 17:38:21,099: E cannot be started for some failed dependencies!
+2021-03-29 17:38:24,113: F cannot be started for some failed dependencies!
+2021-03-29 17:38:24,113: G cannot be started for some failed dependencies!
+2021-03-29 17:38:29,122: Finished all tasks!
+2021-03-29 17:38:29,122: Success/Total = 2/7
